@@ -1,2 +1,4 @@
 project/thirdparty/*/** linguist-vendored
 * text=auto
+*.sh		eol=lf
+*.bat text eol=crlf
